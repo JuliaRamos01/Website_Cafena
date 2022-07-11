@@ -3,3 +3,4 @@ Parei em 35:26 no vídeo
 05/07: Header
 06/07: Responsividade e "Home"
 10/07: Criações das demais sections
+11/07: Ajustes na responsividade e layout
